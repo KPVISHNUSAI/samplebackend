@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS files
+.DS_Store
+Thumbs.db
